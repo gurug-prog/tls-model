@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlsModel.Client", "TlsModel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlsModel.Server", "TlsModel.Server\TlsModel.Server.csproj", "{3E86BC32-3777-4744-A9DF-09554680CAF9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TlsModel.Library", "TlsModel.Library\TlsModel.Library.csproj", "{86FAA507-A5EB-4987-A314-43089B6BAE28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{3E86BC32-3777-4744-A9DF-09554680CAF9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E86BC32-3777-4744-A9DF-09554680CAF9}.Release|x86.ActiveCfg = Release|x86
 		{3E86BC32-3777-4744-A9DF-09554680CAF9}.Release|x86.Build.0 = Release|x86
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Debug|x86.Build.0 = Debug|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Release|x86.ActiveCfg = Release|Any CPU
+		{86FAA507-A5EB-4987-A314-43089B6BAE28}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

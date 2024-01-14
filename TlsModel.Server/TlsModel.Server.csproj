@@ -8,4 +8,8 @@
     <Platforms>AnyCPU;x86</Platforms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TlsModel.Library\TlsModel.Library.csproj" />
+  </ItemGroup>
+
 </Project>
